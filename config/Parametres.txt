@@ -1,0 +1,5 @@
+Produit:Propriete(Libelle)=La barre de Fer;Propriete(Prix)=29.90;Propriete(UniteDeVente)=l'unité;Descriptif=Barre Métallique|Accessoire|Gymnastique;Propriete(Photo)=barre_fer.jpg;Rubriques=Accessoire de gymnastique|Bricolage
+Produit:Propriete(Libelle)=Marteau;Propriete(Prix)=8.50;Propriete(UniteDeVente)=l'unité;Descriptif=Outillage|Accessoire;Propriete(Photo)=marteau.jpg;Rubriques=Bricolage|Batiment
+Produit:Propriete(Libelle)=Perceuse Electrique;Propriete(Prix)=129.60;Propriete(UniteDeVente)=l'unité;Descriptif=Electrique|Outillage|Accessoire;Propriete(Photo)=perceuse.jpg;Rubriques=Batiment|Bricolage
+Rubrique:Nom=Accessoire de gymnastique;RubriquesSuperieures=Gymnastique|Accessoire
+Rubrique:Nom=Gymnastique;RubriquesSuperieures=Sport d'interieur
