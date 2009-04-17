@@ -3,10 +3,8 @@
     require_once("classes/Panier.php");
     require_once("config/config.inc.php");
     require_once("include/Fonctions.inc.php");
-
+	include 'include/header.php'; 
 ?>
-            <?php include 'include/header.php'; ?>
-
             <div id="content">
                 <?php include 'include/nav.php'; ?>
 

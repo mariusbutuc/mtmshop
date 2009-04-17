@@ -26,10 +26,8 @@
     //on enregiste le panier modifier dans la session
     $_SESSION["panier"]=serialize($panier);
 
-
+    include 'include/header.php'; 
 ?>
-
-            <?php include 'include/header.php'; ?>
 
             <div id="content">
                 <?php include 'include/nav.php'; ?>
