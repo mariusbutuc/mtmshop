@@ -18,7 +18,7 @@ $tabRubriques=$_SESSION['rubriques'];
                 foreach($tabRubriques as $rubrique)
                 {
                     //$nomRub=$rubrique->getNom();
-                    echo "<li><a href='Rubrique.php?nom=$rubrique' alt='Allez à cette rubrique'>$rubrique</a></li>";
+                    echo "<li><a href='Rubrique.php?nom=$rubrique'>$rubrique</a></li>\n";
                 }
 
             ?>
